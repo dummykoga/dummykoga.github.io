@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://dummykoga.github.io/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dummykoga.github.io/post/my-first-post/</loc>
     <lastmod>2018-01-02T19:58:54+09:00</lastmod>
   </url>
@@ -29,6 +34,12 @@
   </url>
   
   <url>
+    <loc>https://dummykoga.github.io/archives/2014/03/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dummykoga.github.io/archives/2014/04/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -42,7 +53,7 @@
   
   <url>
     <loc>https://dummykoga.github.io/archives/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
